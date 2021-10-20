@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3 align="center">A CS student from Colorado</h3>
+<h3 align="center">I am a CS student from Colorado</h3>
 
 - 🔭 I’m currently working on **Random Projects**
 
