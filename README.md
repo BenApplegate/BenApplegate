@@ -1,9 +1,9 @@
 ### Hi there 👋
 <h3 align="center">I am a CS student from Colorado</h3>
 
-- 🔭 I’m currently working on **Random Projects**
+- 🔭 I’m currently working on **Handling 18.5 credit hours**
 
-- 🌱 I’m currently learning **Computer Graphics**
+- 🌱 I’m currently learning **Why 18.5 credit hours was a bad idea**
 
 - 👨‍💻 All of my projects are available at [benjaminapplegate.com](benjaminapplegate.com)
 
