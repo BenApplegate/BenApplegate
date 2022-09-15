@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3 align="center">I am a CS student from Colorado</h3>
+<h3 align="center">I am a Computer Science student from the Colorado School of Mines</h3>
 
 - 🔭 I’m currently working on **Handling 18.5 credit hours**
 
